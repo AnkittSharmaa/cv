@@ -157,6 +157,15 @@ a:hover {
   color: #4e4e4e;
 }
 
+.project-desc{
+  color: #2e2e2e;
+  padding: 15px 0 15px 0;
+}
+
+.img-project{
+  padding: 12px 0 12px 0;
+}
+
 .line-mf {
   width: 40px;
   height: 5px;
@@ -941,6 +950,9 @@ button.skill-btn.btn.btn-info{
   padding: 2rem;
   background-color: #fff;
   margin-bottom: 3rem;
+}
+.form-comments{
+  margin-top: 30px;
 }
 
 .blog-wrapper .article-title {
